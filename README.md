@@ -1,4 +1,5 @@
-# 7x7 Journal
+# 7x7 Journal 
+## Authored by Aaron Teshale | CTC-181-26
 
 <p align="center">
   <img src="public/pc-view.png" alt="Desktop View" height="300" />
